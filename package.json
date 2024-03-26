@@ -1,0 +1,16 @@
+{
+  "name": "hangmanproject",
+  "version": "1.0.0",
+  "description": "Hangman Project for Can Code",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Patrick Daley",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
